@@ -1,0 +1,5 @@
+rootProject.name = 'example'
+include ':react-native-scroll-to-enhanced'
+project(':react-native-scroll-to-enhanced').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-scroll-to-enhanced/android')
+
+include ':app'
