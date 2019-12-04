@@ -26,7 +26,7 @@ export default () => {
     ios: (
       <ScrollView
         ref={scrollviewIos}
-        contentContainerStyle={styles.contentContainer}
+        contentContainerStyle={{ width: containerSize, height: containerSize }}
         indicatorStyle="black"
       >
         {targetElement}
