@@ -32,7 +32,7 @@ const Example = () => {
     // Scroll to any child view
     // Does not need to be a direct descendant
     // No-ops if the child view is already fully visible on screen
-    scrollToRect(scrollview.current, view.current);
+    scrollToView(scrollview.current, view.current);
   };
 
   return (
