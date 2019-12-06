@@ -2,22 +2,26 @@
   "name": "react-native-scroll-to-enhanced",
   "title": "React Native Scroll To Enhanced",
   "version": "1.0.0",
-  "description": "TODO",
+  "description": "Enhanced scrollTo functionality for scrollviews in React Native",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-scroll-to-enhanced.git",
-    "baseUrl": "https://github.com/github_account/react-native-scroll-to-enhanced"
+    "url": "git+https://github.com/jacobp100/react-native-scroll-to-enhanced.git",
+    "baseUrl": "https://github.com/jacobp100/react-native-scroll-to-enhanced"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react",
+    "scrollview",
+    "ios",
+    "android",
+    "react-component"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Jacob Parker"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
