@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.jacobp100.reactnative.scrolltoenhanced;
 
 import java.util.Arrays;
 import java.util.Collections;

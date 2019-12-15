@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.jacobp100.reactnative.scrolltoenhanced;
 
 import android.content.res.Resources;
 import android.util.Log;
