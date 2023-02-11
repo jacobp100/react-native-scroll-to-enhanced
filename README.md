@@ -1,3 +1,7 @@
+# Deprecated
+
+## You're recommended to migrate to [react-native-scrollintoview](https://github.com/jacobp100/react-native-scrollintoview), which supports Fabric
+
 # react-native-scroll-to-enhanced
 
 Some extra scrolling methods for scroll views
